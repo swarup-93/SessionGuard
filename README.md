@@ -152,14 +152,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
-
-Swarup Dhavan  
-B.Tech Computer Science and Engineering  
-Cybersecurity and Full Stack Development
-
----
-
 ## Final Note
 
 SecureScope is designed as a client-side security audit toolkit to help identify real-world vulnerabilities directly within the browser.
